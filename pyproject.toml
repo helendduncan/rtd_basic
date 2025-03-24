@@ -1,6 +1,6 @@
 [project]
 name = "Helen_Test"
-authors = [{name = "Helen", email = "helen"}]
+authors = [{name = "Helen", email = "helen@helen.org"}]
 dynamic = ["version", "description"]
 
 [build-system]
