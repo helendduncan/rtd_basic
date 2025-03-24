@@ -1,8 +1,8 @@
+[project]
+name = "Helen_Test"
+authors = [{name = "Helen", email = "helen"}]
+dynamic = ["version", "description"]
+
 [build-system]
 requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
-
-[project]
-name = "Helen's Test"
-authors = [{name = "Helen", email = "helen"}]
-dynamic = ["version", "description"]
